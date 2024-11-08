@@ -31,8 +31,8 @@ Java 8+: This project requires Java Development Kit (JDK) version 8 or higher.
 Clone the repository:
 
  ```bash
-   git clone https://github.com/yourusername/blockchain-voting-system.git
-   cd blockchain-voting-system
+   git clone https://github.com/KumarP123IT/BlockChain_Voting_System.git
+   cd BlockChain_Voting_System
  ```
 ## Compile the code:
 
